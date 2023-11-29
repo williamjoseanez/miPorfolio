@@ -85,7 +85,7 @@ img {
     }
 }
 .barra {
-    padding-top: 4rem;
+    padding-top: 3rem;
 }
 
 @media (min-width: 768px) {
@@ -96,7 +96,12 @@ img {
     }
 }
 .logo {
+    /* display: flex; */
     color: var(--blanco);
+    /* width: 10%;  */
+    /* background-image: url("https://res.cloudinary.com/dheurnsr0/image/upload/v1701221794/IMG_1172_nyrqq4.jpg"); */
+    /* background-image: url("https://res.cloudinary.com/dheurnsr0/image/upload/v1701221495/IMG_1172-removebg-preview_yluc3y.png"); */
+    /* border-radius: 50%; */
     
 }
 .logo__nombre {
